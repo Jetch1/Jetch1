@@ -1,6 +1,6 @@
 <h1 align="center">Hola , soy Jetch1 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">	
-  <a class="letra" href="https://github.com/Jetch1"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=200&height=150&lines=Clases;Ejercicios;Temario;Trabajos" alt="Typing SVG" /></a>
+  <a class="letra" href="https://github.com/Jetch1"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Ejercicios;Proyectos;Pruebas" alt="Typing SVG" /></a>
 </p>
 
 
@@ -8,20 +8,10 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Jetch1" alt="7oSkaaa" height=25px, width=160px/> 
-<!--
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-
-
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
--->
 </p>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
